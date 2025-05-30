@@ -1,5 +1,10 @@
-# 🛡️ 衛巡者 - AI Watchmen  
-> **生成式 AI 使用風險監測與管理工具｜Chrome 擴充套件**  
+<p align="center">
+  <img src="assets/logo.png" alt="產品識別圖" width="300"/>
+</p>
+
+<h1 align="center">衛巡者 - AI Watchmen（Project Title）</h1>
+<p align="center">生成式 AI 使用風險監測與管理工具</p>
+
 
 🎯 專為團隊導入生成式 AI 工具而設計，可即時監控對話、辨識風險、提供回饋報告。  
 已支援 ChatGPT、Claude、Gemini、Grok 等主流模型，適用於教育機構、企業與政府部門。
